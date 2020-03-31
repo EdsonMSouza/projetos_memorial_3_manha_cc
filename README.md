@@ -4,11 +4,14 @@
 * **Período:** Manhã
 
 ## Descrição
-Nesse semestre teremos um novo desafio na construção do nosso Projeto em Desenvolvimento de Sistemas Interativos, onde vamos construir um **Jogo Completo** com um **Sistema de Placar Online**.
+Nesse semestre teremos um novo desafio na construção do nosso Projeto em Desenvolvimento de Sistemas Interativos, onde vamos construir um **Jogo Completo** com um **Sistema de Placar Online Web**.
 
-Como todo projeto, trabalharemos em grupo e teremos uma série de atividades a serem cumpridas pelos membros do grupo, em datas específicas que serão fornecidas pelo professor. O grupo deverá criar um ambiente no Google Drive e compartilhar o documento disponível acima **Modelo de Projeto** comigo para acompanhamento, realizando as implementações solicitadas para as datas de entrega que estão descritas no **Calendário de Entregas**.
+Como todo projeto, trabalharemos em grupo e teremos uma série de atividades a serem cumpridas pelos membros do grupo, em datas específicas que serão fornecidas pelo professor. O grupo deverá criar um ambiente no Google Drive e compartilhar o documento disponível acima **Modelo de Projeto** comigo para acompanhamento, realizando as implementações solicitadas para as datas de entrega que estão descritas no **Calendário de Entregas**. 
 
-Farei as correções de forma online, acessando diretamente o documento no Google Drive. Portanto, não me enviem documentos por e-mail. Os grupos devem ser formados por cinco (5) alunos e comunicados para mim na próxima aula. Grupos formados anteriormente podem ser mantidos, mesmo que seja maior que cinco (5) o número de alunos participantes.
+Farei as correções de forma online, acessando diretamente o documento no Google Drive. Portanto, não me enviem documentos por e-mail. 
+
+Os grupos devem ser formados com cinco (5) alunos e comunicados para mim na próxima aula. Grupos formados anteriormente podem ser mantidos, mesmo que seja maior que cinco (5) o número de alunos participantes. **O projeto pode ser desenvolvido de forma individual. Entretanto, devido a complexidade, pode prejudicar sua avaliação por não cumprir todos os requisitos devido ao tempo**.
+
 
 ## Calendário de Entregas
 * **07/04**
