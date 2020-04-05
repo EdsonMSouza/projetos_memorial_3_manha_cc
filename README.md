@@ -12,12 +12,19 @@ Farei as correções de forma online, acessando diretamente o documento no Googl
 
 Os grupos devem ser formados com cinco (5) alunos e comunicados para mim na próxima aula. Grupos formados anteriormente podem ser mantidos, mesmo que seja maior que cinco (5) o número de alunos participantes. **O projeto pode ser desenvolvido de forma individual. Entretanto, devido a complexidade, pode prejudicar sua avaliação por não cumprir todos os requisitos devido ao tempo**.
 
-
 ## Calendário de Entregas
 * **07/04**
-	+ Nome e RA dos membros do grupo.
-	+ Proposta do projeto.
-	+ Escopo, tarefas e cronograma do projeto.
+	+ Nome e RA dos membros do grupo
+	+ Proposta do projeto
+
+* **14/04**
+	+ Justificativa
+	+ Objetivos geral e específicos
+	+ Fundamentação Teórica - Parcial
+
+* **21/04**
+	+ Fundamentação Teórica - Completa
+	+ Protótipo e Arquitetura do Aplicativo (Android)
 
 ## Professor
 Edson Melo de Souza, Me. - ([prof.edson.melo@gmail.com](mailto:prof.edson.melo@gmail.com)) - ([Currículo *Lattes*](http://lattes.cnpq.br/2641658716558510))
