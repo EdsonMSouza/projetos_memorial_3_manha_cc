@@ -24,7 +24,7 @@ Os grupos devem ser formados com cinco (5) alunos e comunicados para mim na pró
 
 * **21/04**
 	+ Fundamentação Teórica - Completa
-	+ Protótipo e Arquitetura do Aplicativo (Android)
+	+ Protótipo e Arquitetura do Jogo e do Placar Online
 
 ## Professor
 Edson Melo de Souza, Me. - ([prof.edson.melo@gmail.com](mailto:prof.edson.melo@gmail.com)) - ([Currículo *Lattes*](http://lattes.cnpq.br/2641658716558510))
