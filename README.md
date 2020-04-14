@@ -13,7 +13,7 @@ Farei as correções de forma online, acessando diretamente o documento no Googl
 Os grupos devem ser formados com cinco (5) alunos e comunicados para mim na próxima aula. Grupos formados anteriormente podem ser mantidos, mesmo que seja maior que cinco (5) o número de alunos participantes. **O projeto pode ser desenvolvido de forma individual. Entretanto, devido a complexidade, pode prejudicar sua avaliação por não cumprir todos os requisitos devido ao tempo**.
 
 ## Calendário de Entregas
-* **21/04**
+* **28/04**
 	+ Nome e RA dos membros do grupo
 	+ Proposta do projeto
 	+ Justificativa
@@ -22,7 +22,7 @@ Os grupos devem ser formados com cinco (5) alunos e comunicados para mim na pró
 	+ Fundamentação Teórica - Completa
 	+ Protótipo e Arquitetura do Jogo e do Placar Online
 
-* **28/04**
+* **05/05**
 	+ Prévia das Telas
 	+ Tela de Login
 
